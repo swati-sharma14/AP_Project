@@ -21,4 +21,4 @@
 
 ---
 
-Feel free to explore the code, assets, and resources provided in this repository. Get ready for an exciting tank battle experience with Tank Stars Replica! 
+Feel free to explore the code, assets, and resources provided in this repository. 
